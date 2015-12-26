@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<root>
+    <book t:for="name in names"><![CDATA[{{ name }}]]></book>
+</root>
